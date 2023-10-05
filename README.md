@@ -17,3 +17,10 @@ N/A
 ## License
 
 Refer to the repo for licenses. 
+
+```md
+![screenshot of the webpage](assets/images/screenshot.png)
+```
+
+
+deployed webpage, https://dannysaravia001.github.io/Module-1-challenge/
