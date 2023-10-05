@@ -19,7 +19,7 @@ N/A
 Refer to the repo for licenses. 
 
 ```md
-![screenshot of the webpage](assets/images/screenshot.png)
+![screenshot](https://github.com/Dannysaravia001/Module-1-challenge/assets/143926483/a3579ea3-cfdb-4078-a246-c59166184d76)
 ```
 
 
